@@ -1,20 +1,2 @@
 Ticker,Tier,Price,P/E,Sector,Z-Score,ROIC %,Op Margin %,Curr Ratio,Int Cov,Mkt Cap (B),P/B Ratio,ROE %,Debt/Eq %
-GMAB,Fortress,32.52,14.26,Healthcare,12.03,22.92,44.91,6.034,77.37,20.16,0.35,29.41,2.47
-KT,Risky,19.06,14.33,Communication Services,1.17,3.38,7.48,1.237,2.53,9.19,0.38,5.08,60.17
-ACHC,Fortress,14.5,12.5,Healthcare,1.16,8.52,14.04,1.444,3.94,1.34,0.42,3.69,74.49
-SSL,Fortress,6.44,10.22,Basic Materials,1.46,7.45,16.08,1.874,2.32,4.11,0.45,5.07,76.56
-ANGI,Risky,12.77,17.49,Communication Services,1.18,2.52,8.2,1.893,2.0,0.57,0.56,3.42,54.03
-HLX,Fortress,6.28,22.43,Energy,1.57,5.06,12.69,2.541,3.42,0.92,0.59,2.71,39.52
-WB,Fortress,10.15,5.8,Communication Services,2.01,9.5,26.53,3.346,4.99,2.5,0.63,12.37,47.28
-MT,Strong,45.54,13.39,Basic Materials,2.21,5.07,4.09,1.386,6.72,34.64,0.63,4.72,26.23
-GGB,Fortress,3.66,13.56,Basic Materials,1.85,8.24,8.73,2.704,7.86,7.24,0.74,5.51,36.52
-DD,Risky,40.89,23.64,Basic Materials,0.45,4.89,17.77,2.002,4.26,17.13,0.75,3.22,39.67
-MHK,Fortress,109.48,16.29,Consumer Cyclical,2.87,6.87,6.66,2.246,14.32,6.8,0.81,5.2,28.03
-SXC,Strong,7.15,9.53,Basic Materials,2.15,10.39,4.21,2.124,6.49,0.61,0.87,10.23,97.59
-NOV,Strong,15.68,15.84,Energy,2.04,10.23,4.92,2.545,10.13,5.82,0.89,6.03,36.16
-DINO,Risky,45.98,21.79,Energy,3.08,2.82,7.78,1.913,2.32,8.6,0.9,4.18,35.77
-KBH,Fortress,56.94,9.26,Consumer Cyclical,,,8.35,5.753,100.0,3.6,0.92,10.77,43.4
-TMHC,Fortress,59.12,7.12,Consumer Cyclical,3.86,14.21,14.59,7.988,,5.78,0.93,14.4,36.53
-SBLK,Fortress,19.71,41.94,Industrials,1.34,10.78,14.1,1.725,4.28,2.25,0.93,2.5,50.95
-NE,Fortress,28.32,20.37,Energy,1.59,8.6,14.13,1.751,5.41,4.5,0.99,4.92,43.6
-TGNA,Fortress,19.33,9.25,Communication Services,3.06,13.73,15.89,2.218,5.57,3.11,1.0,11.45,83.12
+MATR.TO,Risky,8.07,17.54,Energy,1.31,3.22,5.53,1.872,1.55,0.5,0.64,3.66,80.14
