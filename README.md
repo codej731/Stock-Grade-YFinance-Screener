@@ -32,10 +32,10 @@ The core of this project is the **Credit Model**, which sorts non-financial comp
 
 The project is split into focused notebooks for different sectors and regions:
 
-### 🇺🇸 United States & Canada (Hybrid Screener)
+### 🇺🇸 United States 
 * `Equity_Research_USA_Analyst_Rating.ipynb`
-    * **The Master Screener.** Scrapes US & Canadian tickers, filters by "Buy/Strong Buy" analyst ratings, runs the Credit Model, and checks for Options liquidity. This is the primary tool for finding quality plays.
-    * *Includes:* A "Watchlist Combiner" that merges Finviz data with Yahoo Finance stats.
+    * **The Master Screener.** Scrapes US tickers, filters by "Buy/Strong Buy" analyst ratings, runs the Credit Model, and checks for Options liquidity. This is the primary tool for finding quality plays.
+    * *Includes:* A "Watchlist Combiner" that merges ticker data with Yahoo Finance stats.
 
 ### 🇨🇦 Canadian Specific
 * `Equity_Research_CA_Nonfinancial_Buffet.ipynb`
