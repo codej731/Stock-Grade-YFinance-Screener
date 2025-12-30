@@ -1,4 +1,4 @@
-# Stock-Grade YFinance Screener 📈🛡️
+# Equities Fundamental Analysis Tool 📈🛡️
 
 A powerful, algorithmic stock screener and grading tool for **US and Canadian markets**.
 
