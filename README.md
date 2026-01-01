@@ -2,7 +2,7 @@
 
 A powerful, algorithmic stock screener and grading tool for **US and Canadian markets**.
 
-This project automates the process of finding high-quality, fundamentally sound companies by filtering thousands of stocks through a rigorous financial sieve. It uses a hybrid approach—leveraging `yahooquery` for speed and `yfinance` for deep financial reliability—to grade stocks into **Fortress**, **Strong**, or **Risky** tiers based on solvency, profitability, and capital efficiency.
+This project automates the process of finding high-quality, fundamentally sound companies by filtering thousands of stocks through a rigorous financial sieve. It uses a hybrid approach—leveraging `yahooquery` for speed and `yfinance` for deep financial reliability to grade stocks into **Fortress**, **Strong**, or **Risky** tiers based on solvency, profitability, and capital efficiency.
 
 ## 🚀 Key Features
 
