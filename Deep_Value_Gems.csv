@@ -1,0 +1,11 @@
+Ticker,P/B Ratio,ROE %,Debt/Eq %,Price,Sector,EV/EBITDA,Sector_Avg_EV_EBITDA,Discount_%,Tier
+SSL,0.46,5.07,76.56,6.51,Basic Materials,1.75,11.2,84.38,Fortress
+GGB,0.74,5.51,36.52,3.69,Basic Materials,2.1,11.2,81.25,Fortress
+WB,0.63,12.37,47.28,10.22,Communication Services,4.26,16.1,73.54,Fortress
+ACHC,0.41,3.69,74.49,14.19,Healthcare,6.08,17.71,65.67,Fortress
+TMHC,0.93,14.4,36.53,58.87,Consumer Cyclical,5.78,11.88,51.35,Fortress
+SXC,0.88,10.23,97.59,7.2,Basic Materials,5.64,11.2,49.64,Fortress
+MHK,0.81,5.2,28.03,109.3,Consumer Cyclical,6.5,11.88,45.29,Fortress
+NE,0.99,4.92,43.6,28.24,Energy,5.17,7.74,33.2,Fortress
+KBH,0.91,10.77,43.4,56.41,Consumer Cyclical,8.24,11.88,30.64,Fortress
+MT,0.64,4.72,26.23,45.57,Basic Materials,8.27,11.2,26.16,Fortress
