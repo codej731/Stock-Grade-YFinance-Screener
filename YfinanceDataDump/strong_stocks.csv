@@ -1,2 +1,22 @@
 Ticker,Tier,Price,P/E,Sector,Z-Score,ROIC %,Op Margin %,Avg Margin (4Y),Curr Ratio,Int Cov,Mkt Cap (B)
+ONON,Strong,46.48,54.68,Consumer Cyclical,11.4,17.21,15.71,1.67,2.554,18.7,15.35
+CAVA,Strong,58.69,50.59,Consumer Cyclical,9.5,5.88,6.26,0.65,2.686,,6.81
+CHRW,Strong,160.76,32.54,Industrials,8.62,22.51,5.58,4.13,1.585,7.44,18.99
+CLS,Strong,295.61,48.07,Technology,7.12,19.69,10.32,4.51,1.468,11.21,34.01
+PEGA,Strong,59.72,39.03,Technology,6.55,21.91,3.79,0.86,1.359,21.87,10.22
+PFGC,Strong,89.92,43.02,Consumer Defensive,4.63,6.12,1.32,1.17,1.671,2.28,14.1
+DNOW,Strong,13.25,15.23,Industrials,4.49,10.09,5.84,4.66,2.52,100.0,2.46
+BG,Strong,89.08,10.03,Consumer Defensive,4.27,11.42,2.19,3.84,1.66,4.24,17.22
+HUM,Strong,256.13,23.98,Healthcare,4.17,5.12,2.04,3.59,2.024,3.61,30.81
+MMM,Strong,160.1,25.49,Industrials,3.97,21.01,24.37,2.21,1.842,5.05,85.27
+PSX,Strong,129.04,34.69,Energy,3.49,6.3,4.4,3.17,1.227,3.82,52.15
+ADM,Strong,57.49,23.37,Consumer Defensive,3.08,8.88,1.95,3.6,1.372,4.19,27.63
+PSN,Strong,61.8,28.48,Technology,3.05,11.74,6.15,4.88,1.668,8.13,6.6
+FLEX,Strong,60.42,26.62,Technology,2.93,14.55,5.1,3.77,1.334,5.69,22.59
+GAP,Strong,25.6,11.53,Consumer Cyclical,2.83,14.18,8.22,3.89,1.72,14.07,9.52
+CENX,Strong,39.18,46.64,Basic Materials,2.5,24.86,9.22,2.56,1.714,8.51,3.66
+CSTM,Strong,18.85,23.56,Basic Materials,2.27,7.24,7.02,4.66,1.277,2.31,2.63
 NOV,Strong,15.63,15.79,Energy,2.04,10.23,4.92,4.67,2.545,10.13,5.8
+BOX,Strong,29.91,23.93,Technology,1.9,12.24,8.32,3.19,1.2,15.02,4.28
+HLX,Strong,6.27,22.39,Energy,1.57,5.06,12.69,1.88,2.541,3.42,0.92
+GDRX,Strong,2.71,33.88,Healthcare,0.63,6.67,7.46,1.68,3.11,1.59,0.94
