@@ -1,6 +1,22 @@
 Ticker,Tier,Price,P/E,Sector,Z-Score,ROIC %,Op Margin %,Avg Margin (4Y),Curr Ratio,Int Cov,Mkt Cap (B)
-PNG.V,Strong,6.79,97.0,Technology,32.02,8.88,15.75,3.63,7.305,36.38,2.08
-CLS.TO,Strong,414.7,49.37,Technology,9.13,19.69,10.32,4.51,1.468,11.21,47.71
-SES.TO,Strong,17.46,35.63,Industrials,7.67,47.38,2.91,1.64,1.21,16.84,3.81
-BDT.TO,Strong,29.24,17.2,Industrials,3.27,19.95,5.02,3.33,1.284,8.48,1.62
-MFI.TO,Strong,24.87,16.05,Consumer Defensive,2.21,8.52,5.98,3.01,1.466,1.91,3.1
+CLS.TO,Strong,399.9,46.94,Technology,8.88,19.69,10.32,4.51,1.468,11.21,46.0
+SES.TO,Strong,16.4,33.47,Industrials,7.56,47.38,2.91,1.64,1.21,16.84,3.58
+BDT.TO,Strong,29.69,17.46,Industrials,3.27,19.95,5.02,3.33,1.284,8.48,1.64
+PET.TO,Strong,28.12,20.53,Consumer Cyclical,2.77,21.01,15.7,15.72,1.275,3.77,1.94
+CIA.TO,Strong,6.02,27.36,Basic Materials,2.69,11.14,26.77,33.56,2.568,9.17,3.27
+CVE.TO,Strong,22.7,13.12,Energy,2.58,9.6,11.0,10.14,1.729,7.27,42.82
+TCL-A.TO,Strong,22.89,11.22,Consumer Cyclical,2.49,10.13,11.54,8.21,1.292,6.08,1.92
+SU.TO,Strong,63.33,14.76,Energy,2.34,11.24,19.35,17.96,1.348,12.8,76.83
+DOO.TO,Strong,101.66,30.62,Consumer Cyclical,2.3,8.86,9.04,12.88,1.229,1.8,7.46
+WN.TO,Strong,95.2,25.39,Consumer Defensive,2.29,11.91,8.38,7.46,1.416,3.76,36.4
+MFI.TO,Strong,24.71,15.94,Consumer Defensive,2.21,8.52,5.98,3.01,1.466,1.91,3.08
+RSI.TO,Strong,6.03,12.31,Consumer Defensive,2.15,11.78,6.81,7.79,1.782,4.99,0.77
+BDI.TO,Strong,16.12,27.79,Industrials,2.15,8.05,14.56,12.08,1.352,3.62,1.09
+DBM.TO,Strong,9.75,11.08,Industrials,2.15,6.29,4.65,5.21,1.378,2.16,0.85
+PBH.TO,Strong,100.37,68.28,Consumer Defensive,2.11,7.51,4.6,5.23,1.328,1.85,4.48
+EFX.TO,Strong,20.97,13.8,Energy,2.06,9.79,13.0,5.23,1.24,1.79,2.56
+MTL.TO,Strong,16.19,15.27,Industrials,2.04,9.53,10.58,9.98,1.974,4.18,1.41
+MX.TO,Strong,62.74,15.23,Basic Materials,2.02,7.03,8.61,10.84,2.087,3.11,4.85
+KEY.TO,Strong,41.58,22.24,Energy,2.0,11.31,9.89,12.62,1.881,3.88,9.53
+CTC-A.TO,Strong,175.1,12.33,Consumer Cyclical,1.93,8.49,8.89,9.43,1.8,13.0,9.35
+EIF.TO,Strong,88.01,31.89,Industrials,1.86,7.75,13.25,11.3,1.791,2.22,4.93

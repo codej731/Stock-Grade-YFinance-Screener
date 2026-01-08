@@ -1,13 +1,18 @@
 Ticker,Price,Sector,Tier,EV/EBITDA,Sector_Avg_EV_EBITDA,Discount_%,Insider_Buys_Count,Net_Shares_Bought
-FVI.TO,13.09,Basic Materials,Fortress,6.14,17.75,65.41,4,916900.0
-CG.TO,19.42,Basic Materials,Fortress,7.83,17.75,55.89,92,5442652.0
-TXG.TO,64.49,Basic Materials,Fortress,10.51,17.75,40.79,18,554667.0
-ELD.TO,48.63,Basic Materials,Fortress,10.83,17.75,38.99,93,5086503.0
-MTL.TO,15.98,Industrials,Fortress,8.54,13.68,37.57,123,756740.0
-CVE.TO,24.05,Energy,Fortress,5.66,7.56,25.13,73,53965480.0
-SU.TO,62.61,Energy,Fortress,5.74,7.56,24.07,61,11612551.0
-POU.TO,24.1,Energy,Fortress,6.01,7.56,20.5,1,4945000.0
-HWX.TO,9.54,Energy,Fortress,6.11,7.56,19.18,6,1047100.0
-WN.TO,94.74,Consumer Defensive,Fortress,9.97,12.16,18.01,137,4586698.0
-PSI.TO,12.29,Energy,Fortress,6.33,7.56,16.27,84,1101000.0
-TCW.TO,6.09,Energy,Fortress,6.61,7.56,12.57,128,10315680.0
+FVI.TO,13.81,Basic Materials,Fortress,6.55,19.42,66.27,10,2116207.0
+WDO.TO,24.71,Basic Materials,Fortress,6.71,19.42,65.45,8,706100.0
+DNG.TO,6.04,Basic Materials,Fortress,8.62,19.42,55.61,136,159600.0
+CG.TO,21.44,Basic Materials,Fortress,8.76,19.42,54.89,90,4682811.0
+CCL-B.TO,88.37,Consumer Cyclical,Fortress,10.79,19.67,45.14,4,627580.0
+RUS.TO,45.2,Industrials,Fortress,9.1,16.56,45.05,139,2435800.0
+TXG.TO,69.12,Basic Materials,Fortress,11.3,19.42,41.81,23,825769.0
+ELD.TO,52.59,Basic Materials,Fortress,11.7,19.42,39.75,94,5206423.0
+FTT.TO,76.26,Industrials,Fortress,10.71,16.56,35.33,11,18282.0
+APM.TO,9.42,Basic Materials,Fortress,12.99,19.42,33.11,40,2101921.0
+CMG.TO,5.48,Technology,Fortress,12.15,17.96,32.35,7,317400.0
+NWC.TO,49.01,Consumer Defensive,Fortress,8.89,12.62,29.56,40,238657.0
+KNT.TO,23.72,Basic Materials,Fortress,15.3,19.42,21.22,1,8333.0
+TIH.TO,169.15,Industrials,Fortress,14.22,16.56,14.13,6,132600.0
+GIL.TO,88.07,Consumer Cyclical,Fortress,17.06,19.67,13.27,109,1560676.0
+POU.TO,22.25,Energy,Fortress,5.28,5.9,10.51,1,4945000.0
+HWX.TO,9.2,Energy,Fortress,5.7,5.9,3.39,6,1047100.0
